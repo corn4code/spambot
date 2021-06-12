@@ -2,9 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auto_filesort" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/back_jack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/back_jack/back_jack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/black_jack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/black_jack_lokal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/black_jack_lokal/back_jack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flappy_bird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inf_muenzwurf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/password_generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/saving_calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spambot" vcs="Git" />
   </component>
 </project>

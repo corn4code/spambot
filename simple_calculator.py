@@ -6,11 +6,11 @@ if operator == "*":
 elif operator == "+":
     num3 = num1 + num2
 elif operator == "-":
-    num3 == num1 - num2
+    num3 = num1 - num2
 elif operator == "/":
     num3 = num1 / num2
 elif operator == "^":
     num3 = pow(num1, num2)
 else:
     print("invalid input, restart programm")
-print(f"The result is{num3}")
+print(f"The result is {num3}")
